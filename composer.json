@@ -1,8 +1,8 @@
 {
-    "name": "ohweb/nette-csv-response",
+    "name": "cuchulain/nette-csv-response",
     "type": "library",
     "description": "Nette CSV response",
-    "homepage": "https://github.com/ohweb/nette-csv-response",
+    "homepage": "https://github.com/Cuchulain/nette-csv-response",
     "license": "New BSD",
     "authors": [
         {
