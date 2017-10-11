@@ -14,10 +14,15 @@
             "name": "Ondra Hlaváč",
             "email": "ondra@hlavac.cz",
             "role": "Developer"
+        },
+        {
+            "name": "Jan Čejka",
+            "email": "posta@jancejka.cz",
+            "role": "Developer"
         }
     ],
     "require": {
-        "nette/nette": ">=2.0.0"
+        "nette/application": ">=2.0.0"
     },
     "autoload": {
         "psr-4": {
